@@ -22,14 +22,14 @@ The following **additional** features are implemented:
 
 In progress! 🔧
 * [ ] Update the UI/UX
-* [ ] Add authentification and connect to Firebase to store user accounts and their lists of goals 
-* [ ] Secure lists of goals through encryption
+* [ ] Add authentification and connect to Firebase to store user accounts and their lists of todos 
+* [ ] Secure lists of todos through encryption
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Walkthrough.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
